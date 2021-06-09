@@ -9,7 +9,7 @@ First Follow Along Indie Game That I Made Using Unity
 [ZipZap](https://github.com/MiguelEmmara-ai/ZipZap/releases/tag/V1.0) - Windows Installer x86_64
 
 ## Run On The Browser
-[ZipZap Web GL](https:zipzap.miguelemmara.me)
+[ZipZap Web GL](https://zipzap.miguelemmara.me)
 
 ## Built With
 
